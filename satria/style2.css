@@ -1,0 +1,13 @@
+body {
+    background: linear-gradient(112.1deg, rgb(32, 38, 57) 11.4%, rgb(63, 76, 119) 70.2%);
+    height: 100vh;
+}
+
+nav {
+    background: linear-gradient(112.1deg, rgb(32, 38, 57) 11.4%, rgb(63, 76, 119) 70.2%);
+    height: 100vh;
+    display: flex;
+    border: 0caps;
+    border-radius: 0%;
+}
+
